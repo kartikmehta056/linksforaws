@@ -15,7 +15,7 @@ all links for aws devops
  https://youtube.com/shorts/Em5J4hBw2mM?feature=share
  https://youtube.com/playlist?list=PL6XT0grm_Tfi21F8O0TvHmb78P2uEmhDq
  https://youtu.be/a-0BzQL66CI
- https://www.youtube.com/watch?v=1CHY9197ftE&ab_channel=CloudWithRaj iska kutta hmesha sota rehta h
+ https://www.youtube.com/watch?v=1CHY9197ftE&ab_channel=CloudWithRaj 
  https://youtu.be/TAK-sgF2gAs
  https://bootcamp.uxdesign.cc/how-a-single-developer-dropped-aws-costs-by-90-then-disappeared-2b46a115103a
  https://cloud.google.com/migrate/containers/docs/troubleshooting/executing-shell-commands
